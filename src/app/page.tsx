@@ -34,13 +34,8 @@ export default function LandingPage() {
 
       {/* Footer */}
       <footer className="bg-black text-gray-400 text-center py-3">
-        <p>&copy; 2024 SnipAI.</p>
-        <p>
-          Contact us at{' '}
-          <a href="mailto:founders@trysnipai.co" className="text-pink-500 hover:underline">founders@trysnipai.co</a>{' '}
-          or{' '}
-          <a href="mailto:hello@trysnipai.co" className="text-pink-500 hover:underline">hello@trysnipai.co</a>
-        </p>
+        <p>&copy; 2025 SnipAI.</p>
+
       </footer>
 
       <style jsx>{`
@@ -49,7 +44,7 @@ export default function LandingPage() {
           animation: reveal 3000ms ease-in-out forwards 200ms,
                      glow 2500ms linear infinite 2000ms;
         }
-        
+
         .subheadline {
           animation: fadeIn 1s ease-in-out forwards 3.4s;
         }
